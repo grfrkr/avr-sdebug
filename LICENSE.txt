@@ -1,0 +1,3 @@
+WTFPL: the "do What The Fuck you want to" Public License.
+
+0. Just do what the fuck you want to.
